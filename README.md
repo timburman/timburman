@@ -117,7 +117,13 @@ A DAO-oriented application built around token-based participation and decentrali
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=timburman&theme=default&hide_border=true)](https://github.com/timburman)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=timburman&theme=github-compact&hide_border=true)](https://github.com/timburman)
+<p align="center">
+  <img
+    src="https://ghchart.rshah.org/timburman"
+    alt="Aryan's GitHub contribution graph"
+    width="100%"
+  />
+</p>
 
 </div>
 
